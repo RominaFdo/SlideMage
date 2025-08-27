@@ -1,4 +1,4 @@
-def design_slide(title: str, bullets: list[str]) -> dict:
+def design_slides(title: str, bullets: list[str]) -> dict:
     return{
 
         "title"  :title,

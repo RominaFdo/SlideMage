@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-pptx
+wikipedia
+wikipediaapi
+google-generativeai
+requests
+python-dotenv
+pydantic
+typing-extensions
+
+# Document processing (for future enhancements)
+PyPDF2
+python-docx
+openpyxl
+
+# Additional utilities
+Pillow
+aiofiles
